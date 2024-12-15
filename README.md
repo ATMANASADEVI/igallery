@@ -1,5 +1,5 @@
 # Ex.08 Design of Interactive Image Gallery
-## Date:
+## Date:15/12/2024
 
 ## AIM:
 To design a web application for an inteactive image gallery with minimum five images.
@@ -25,7 +25,7 @@ Validate the HTML and CSS code.
 Publish the website in the given URL.
 
 ## PROGRAM :
-
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -193,7 +193,7 @@ Publish the website in the given URL.
 </body>
 </html>
  
-
+```
 ## OUTPUT:
 ![alt text](<Screenshot (76).png>)
 ## RESULT:
